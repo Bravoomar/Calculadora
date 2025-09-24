@@ -121,7 +121,7 @@ fun CalculatorApp() {
                         modifier = Modifier
                             .weight(1f)
                             .padding(4.dp)
-                            .aspectRatio(1f) // Para que los botones sean cuadrado
+                            .aspectRatio(1f) // Para que los botones sean cuadrados
                     ) {
                         Text(label)
                     }
